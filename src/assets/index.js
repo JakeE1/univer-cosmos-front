@@ -10,6 +10,14 @@ import close from "./close.svg";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
+import venus from "./tech/venus.png";
+import uranus from "./tech/uranus.png";
+import saturn from "./tech/saturn.png";
+import neptun from "./tech/neptun.png";
+import mercury_png from "./tech/mercury_png.png";
+import jupiter from "./tech/jupiter.png";
+import earth from "./tech/earth.png";
+import mars from "./tech/mars.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -50,6 +58,14 @@ export {
   git,
   html,
   javascript,
+  earth,
+  jupiter,
+  mercury_png,
+  neptun,
+  saturn,
+  uranus,
+  venus,
+  mars,
   mongodb,
   nodejs,
   reactjs,

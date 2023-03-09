@@ -15,10 +15,6 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     apollo,
     gemini,
     mercury,
@@ -27,6 +23,14 @@ import {
     jobit,
     tripguide,
     threejs,
+    earth,
+    jupiter,
+    mercury_png,
+    neptun,
+    saturn,
+    uranus,
+    mars,
+    venus
   } from "../assets";
   
   export const navLinks = [
@@ -65,56 +69,36 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "Mercury",
+      icon: mercury_png,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Venus",
+      icon: venus,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+      name: "Earth",
+      icon: earth,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Mars",
+      icon: mars,
     },
     {
-      name: "React JS",
-      icon: reactjs,
+      name: "Jupiter",
+      icon: jupiter,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Saturn",
+      icon: saturn,
     },
     {
-      name: "Tailwind CSS",
-      icon: tailwind,
+      name: "Uranus",
+      icon: uranus,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
+      name: "Neptune",
+      icon: neptun,
     },
   ];
   
