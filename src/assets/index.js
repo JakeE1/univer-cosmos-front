@@ -25,6 +25,11 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import shuttle from "./company/shuttle.svg";
+import mercury from "./company/mercury.png";
+import gemini from "./company/gemini.png";
+import apollo from "./company/apollo.svg";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +61,10 @@ export {
   shopify,
   starbucks,
   tesla,
+  apollo,
+  gemini,
+  mercury,
+  shuttle,
   carrent,
   jobit,
   tripguide,
